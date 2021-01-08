@@ -1,0 +1,8 @@
+Query adam
+Frequency adam
+Query virginia
+Frequency virginia
+Query president
+Frequency president
+Query html
+Frequency html
